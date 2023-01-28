@@ -74,6 +74,27 @@ export default {
           price: 1,
           image: CourtJordan
         },
+
+        {
+          id: 7,
+          name: 'Vapor Plazer',
+          price: 140,
+          image: vaporBlazer
+        },
+
+        {
+          id: 8,
+          name: 'Bapor Plazer',
+          price: 200,
+          image: vaporBlazer
+        },
+
+        {
+          id: 9,
+          name: 'Bapor Plazer',
+          price: 350,
+          image: vaporBlazer
+        },
       ]
     }
   }
